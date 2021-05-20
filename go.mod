@@ -1,4 +1,4 @@
-module github.com/abidibo/shippy/shippy-service-consignment
+module github.com/abidibo/shippy-service-consignment
 
 go 1.16
 
